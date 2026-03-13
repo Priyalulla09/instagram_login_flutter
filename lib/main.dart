@@ -22,8 +22,12 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Instagram Login"),
         backgroundColor: Colors.purpleAccent,
+        title: Text("Instagram Login",
+        style: TextStyle(fontSize: 25,
+        fontWeight: FontWeight.bold),
+      ),
+
       ),
       body: Center(
         child: Padding(
