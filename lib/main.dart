@@ -79,7 +79,7 @@ class _LoginPageState extends State<LoginPage> {
 
               SizedBox(height: 10),
 
-              SizedBox(
+              SizedBox( 
                 width: double.infinity,
                 child: ElevatedButton(
                   onPressed: () {},

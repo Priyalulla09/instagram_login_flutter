@@ -1,16 +1,42 @@
-# instaloginpage
+# Instagram Login UI (Flutter)
 
-A new Flutter project.
+A clean and simple Instagram login screen built using Flutter.  
+This project focuses on UI design and layout practice.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="assets/images/home.jpeg" width="250"/>
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+
+- Clean UI design
+- Responsive layout
+- Beginner-friendly structure
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter
+- Dart
+
+---
+
+## 📂 Project Structure
+
+- lib/ → Main app code
+- assets/images/ → Screenshots
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
